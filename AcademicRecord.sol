@@ -1,5 +1,7 @@
 # AcademicRecord Contract
 
+This Solidity smart contract is designed to manage academic records with role-based access control, multi-signature approvals, and IPFS content addressing.
+
 ## Contract Code
 
 ```solidity
